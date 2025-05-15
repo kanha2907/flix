@@ -166,3 +166,7 @@ Subscribe to the Telegram channel on developing the drone and the flight control
 Join the official Telegram chat: https://t.me/opensourcequadcopterchat.
 
 Detailed article on Habr.com about the development of the drone (in Russian): https://habr.com/ru/articles/814127/.
+
+## Examples
+An I²C interface example for the MPU6050 motion sensor is available in:
+[`examples/mpu6050_i2c.c`](examples/mpu6050_i2c.ino)
